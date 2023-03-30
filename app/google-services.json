@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "982288332631",
+    "project_id": "signin-f0bba",
+    "storage_bucket": "signin-f0bba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982288332631:android:b8ad59fa9171fdb8d3b012",
+        "android_client_info": {
+          "package_name": "dk.deepak.signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982288332631-pgbsnqbt00rnllflul4cie7hojqqtn2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATU1WypBJbgkSPAXKyUKc9abuuXyGEUZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982288332631-pgbsnqbt00rnllflul4cie7hojqqtn2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
